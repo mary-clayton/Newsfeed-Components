@@ -3,7 +3,7 @@
 const data = [
   {
     title: 'Lambda School Students: "We\'re the best!"',
-    date: 'Nov 5th, 2018',
+    date: "Nov 5th, 2018",
     firstParagraph: `Lucas ipsum dolor sit amet ben twi'lek padmé darth darth darth moff hutt organa twi'lek. Ben amidala secura skywalker lando
         moff wicket tatooine luke.Solo wampa wampa calrissian yoda moff.Darth grievous darth gonk darth hutt.Darth baba skywalker
         watto fett jango maul han.Mon ewok sidious sidious lando kenobi grievous gamorrean solo.Yoda wedge utapau darth calamari.
@@ -23,8 +23,8 @@ const data = [
         moff calamari mon obi-wan. Solo grievous lando coruscant. Jinn darth palpatine obi-wan mon.`
   },
   {
-    title: 'Javascript and You, ES6',
-    date: 'May 7th, 2019',
+    title: "Javascript and You, ES6",
+    date: "May 7th, 2019",
     firstParagraph: `Alohamora wand elf parchment, Wingardium Leviosa hippogriff, house dementors betrayal. Holly, Snape centaur portkey ghost
         Hermione spell bezoar Scabbers. Peruvian-Night-Powder werewolf, Dobby pear-tickle half-moon-glasses, Knight-Bus. Padfoot
         snargaluff seeker: Hagrid broomstick mischief managed. Snitch Fluffy rock-cake, 9 ¾ dress robes I must not tell lies. Mudbloods
@@ -43,8 +43,8 @@ const data = [
         sing above the ground, Ginny Weasley bright red. Fanged frisbees, phoenix tears good clean match.`
   },
   {
-    title: 'React vs Angular vs Vue',
-    date: 'June 7th, 2019',
+    title: "React vs Angular vs Vue",
+    date: "June 7th, 2019",
     firstParagraph: `Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing
         elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur
         adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charizard Lorem ipsum dolor sit amet,
@@ -71,8 +71,8 @@ const data = [
         Castform Lotad the power that's inside Burnt Berry Makuhita. Ghost Ariados Corphish Dusclops Golbat Gligar Zweilous.`
   },
   {
-    title: 'Professional Software Development in 2019',
-    date: 'Jan 1st, 2019',
+    title: "Professional Software Development in 2019",
+    date: "Jan 1st, 2019",
     firstParagraph: `Hodor hodor HODOR! Hodor hodor - hodor, hodor. Hodor hodor... Hodor hodor hodor; hodor hodor. Hodor hodor hodor, hodor, hodor
           hodor. Hodor, hodor. Hodor. Hodor, hodor - hodor... Hodor hodor hodor; hodor HODOR hodor, hodor hodor?! Hodor hodor, hodor.
           Hodor hodor hodor hodor hodor! Hodor hodor - HODOR hodor, hodor hodor hodor hodor hodor; hodor hodor? `,
@@ -85,8 +85,93 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: "Web Development 101",
+    date: "Sep 4th, 2019",
+    firstParagraph: `Cat ipsum dolor sit amet, be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day present belly, scratch hand when stroked you are a captive audience while 
+    sitting on the toilet, pet me. Stick butt in face. Kick up litter favor packaging over toy or demand to be let outside at once, and expect owner to wait for me as i think about it but it's 3am, time to create some chaos . 
+    I'm bored inside, let me out i'm lonely outside, let me in i can't make up my mind whether to go in or out, guess i'll just stand partway in and partway out, contemplating the universe for half an hour how dare you nudge me 
+    with your foot?!?! leap into the air in greatest offense! adventure always for kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute? lick human with sandpaper tongue so russian blue. 
+    Pooping rainbow while flying in a toasted bread costume in space. Kitty power good now the other hand, too find a way to fit in tiny box but your pillow is now my pet bed. I just saw other cats inside the house and nobody ask me before 
+    using my litter box fall asleep upside-down i like big cats and i can not lie. Cats are the world. Cats are the world jump off balcony, onto stranger's head. If it smells like fish eat as much as you wish put toy mouse in food bowl run 
+    out of litter box at full speed . Soft kitty warm kitty little ball of furr mouse so i love cuddles. Proudly present butt to human put toy mouse in food bowl run out of litter box at full speed . Groom forever, stretch tongue and leave 
+    it slightly out, blep stand in doorway, unwilling to chose whether to stay in or go out. 
+    `,
+
+    secondParagraph: `Try to jump onto window and fall while scratching at wall plays league of legends let me in let me out let me in let me out let me in let me out who broke this door anyway for chew on cable. 
+    I will ruin the couch with my claws. Make it to the carpet before i vomit mmmmmm scratch me there, elevator butt, yet thinking longingly about tuna brine, attack dog, run away and pretend to be victim. Sleeps on my head. 
+    Find something else more interesting do i like standing on litter cuz i sits when i have spaces, my cat buddies have no litter i live in luxury cat life or ask to be pet then attack owners hand sit in box, scratch at the door 
+    then walk away stretch, caticus cuteicus. Sitting in a box no, you can't close the door, i haven't decided whether or not i wanna go out and do i like standing on litter cuz i sits when i have spaces, my cat buddies have no litter 
+    i live in luxury cat life or sleep. Hide at bottom of staircase to trip human kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute? friends are not food, bite off human's toes, flop 
+    over slap owner's face at 5am until human fills food dish. Scratch leg; meow for can opener to feed me. Cat cat moo moo lick ears lick paws love you, then bite you.  `,
+
+    thirdParagraph: `Meowwww. If human is on laptop sit on the keyboard refuse to leave cardboard box, 
+    weigh eight pounds but take up a full-size bed. Fall asleep on the washing machine chase red laser dot or playing with balls of wool and small kitty warm kitty little balls of fur or good now the other hand, 
+    too for slap owner's face at 5am until human fills food dish. Massacre a bird in the living room and then look like the cutest and most innocent animal on the planet ignore the squirrels, you'll never catch them anyway 
+    and fall asleep on the washing machine. Mewl for food at 4am. Always ensure to lay down in such a manner that tail can lightly brush human's nose there's a forty year old lady there let us feast yet nap all day sleep. 
+    Bite nose of your human. Eats owners hair then claws head hide when guests come over. Do i like standing on litter cuz i sits when i have spaces, my cat buddies have no litter i live in luxury cat life. Show belly floof tum, 
+    tickle bum, jellybean footies curly toes for cough hairball on conveniently placed pants.`
   }
-];
+]; //array closes
+//** SELECTORS **/
+const site = document.querySelector(".articles");
+
+//** ARTICLE **/
+function createArticle(
+  title,
+  date,
+  firstParagraph,
+  secondParagraph,
+  thirdParagraph
+) {
+  //* Created Elements
+  const article = document.createElement("div");
+  const articleTitle = document.createElement("h2");
+  const articleDate = document.createElement("p");
+  const articleParaOne = document.createElement("p");
+  const articleParaTwo = document.createElement("p");
+  const articleParaThree = document.createElement("p");
+  const articleButton = document.createElement("span");
+
+  //* Classes
+  article.classList.add("article");
+  articleTitle.classList.add("title");
+  articleDate.classList.add("date");
+  articleParaOne.classList.add("paragraphone");
+  articleParaTwo.classList.add("paragraphtwo");
+  articleParaThree.classList.add("paragraphthree");
+  articleButton.classList.add("expandButton");
+
+  //* Append Children
+  article.appendChild(articleTitle);
+  article.appendChild(articleDate);
+  article.appendChild(articleParaOne);
+  article.appendChild(articleParaTwo);
+  article.appendChild(articleParaThree);
+  article.appendChild(articleButton);
+
+  //* Text Content
+  articleTitle.textContent = title;
+  articleDate.textContent = date;
+  articleParaOne.textContent = firstParagraph;
+  articleParaTwo.textContent = secondParagraph;
+  articleParaThree.textContent = thirdParagraph;
+  articleButton.textContent = "Read More";
+
+  //* Event Listeners
+  articleButton.addEventListener("click", event => {
+    //classes
+    article.classList.toggle("article-open");
+  }); //event listerner close
+  return article;
+} //article
+
+//* FOR EACH *//
+
+data.forEach(data => {
+  site.appendChild(createArticle(data.title, data.date, data.firstParagraph, data.secondParagraph, data.thirdParagraph))
+})
 
 /* Step 1: Create a function that creates a component. You will want your component to look like the template below: 
   
